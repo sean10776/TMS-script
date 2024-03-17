@@ -1,0 +1,8 @@
+pyautogui
+pynput
+win32gui
+PIL
+
+# OCR
+pytesseract
+cv2
